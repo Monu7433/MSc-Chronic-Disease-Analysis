@@ -28,6 +28,7 @@ This project is part of my M.Sc final year work focusing on chronic disease anal
 ## Tools and Software
 - SAS
 - SPSS
+- R
 - Microsoft Excel
 
 ---
